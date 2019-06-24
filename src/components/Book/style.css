@@ -1,0 +1,15 @@
+.book {
+  width: 100%;
+  text-align: left;
+  color: rgb(53, 46, 46);
+  padding: 1rem 0 1rem 0;
+  /* height: 27rem !important; */
+  border: solid;
+  margin-bottom: 1rem;
+}
+
+.bookImg{
+  width: auto;
+  height: 100%;
+  border: solid;
+}

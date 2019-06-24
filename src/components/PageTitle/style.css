@@ -1,0 +1,11 @@
+.pageTitle {
+  width: 100%;
+  text-align: center;
+  color: #BEBEBE;
+  padding-top: 2rem;
+  height: 14rem;
+}
+
+.container {
+  min-height: 23rem;
+}
